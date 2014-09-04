@@ -1,6 +1,8 @@
 Climb
 ======
 
+Note: this has been moved to https://bitbucket.org/stewsters/climb/
+
 A bit like Crawl, but with more height.
 
 
